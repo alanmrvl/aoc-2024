@@ -44,4 +44,4 @@ clean:
 	rm -r $(OUT_DIR)
 
 # Phony targets
-.PHONY: clean image-build image-clean container-build build
+.PHONY: clean image-build image-clean container-build build run
